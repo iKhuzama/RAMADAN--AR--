@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "257-2577640_samosa",
+  "identifier": "texture:148095-d9fa0605-cb59-4cd3-8574-e1e1e9123ea1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c5e62f5a6737bdc3accf25b91c1c0062",
+  "assetLocator": "textures/257-2577640_samosa.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 366,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 272,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c5e62f5a6737bdc3accf25b91c1c0062",
+      "colorCount": 41061,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 8.972566888309562,
+      "pixelsHigh": 366,
+      "pixelsWide": 272
+    }
+  ]
+}

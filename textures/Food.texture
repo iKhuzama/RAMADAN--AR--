@@ -1,0 +1,41 @@
+{
+  "modelName": "texture",
+  "name": "Food",
+  "identifier": "texture:145711-d9fa0605-cb59-4cd3-8574-e1e1e9123ea1",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "9959d377fe648e464f40b04230a0625a",
+  "assetLocator": "textures/Food.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "exportConfigurations": [
+    "textureExportConfig:145863-d9fa0605-cb59-4cd3-8574-e1e1e9123ea1",
+    "textureExportConfig:146017-d9fa0605-cb59-4cd3-8574-e1e1e9123ea1",
+    "textureExportConfig:146173-d9fa0605-cb59-4cd3-8574-e1e1e9123ea1"
+  ],
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 400,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 400,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "9959d377fe648e464f40b04230a0625a",
+      "colorCount": 614,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 2.737410281792489,
+      "pixelsHigh": 400,
+      "pixelsWide": 400
+    }
+  ]
+}
